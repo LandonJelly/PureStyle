@@ -1,2 +1,2 @@
 # PureStyle
-A personal pure css framework build test . . 
+A personal pure css framework build test . ..
